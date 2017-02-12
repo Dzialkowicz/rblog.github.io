@@ -18,14 +18,10 @@ in `cmd`.
 
 ## Redux
 
-I have decided to start on the Roots, so now I am checking **[Redux](http://redux.js.org/)** website. It should take some time before I will get any 
-**stable** knowledge from this. 
-
+I have decided to start on the Roots, so now I am checking **[Redux](http://redux.js.org/)** website. It should take some time before I will get any **stable** knowledge from this. 
 I have installed needed things from `Read Me` section on this site.  
-
 Also in `Read Me` there was a link to **[30 videos from Redux creator](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?course=getting-started-with-redux)** - Dan Abramov.
-
-I will write some most important notes from each video here:
+I will write some most important notes from each video here.
 
 ## 1
    **First Rule**
