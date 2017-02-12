@@ -10,7 +10,7 @@ title: Rblog
 email: qba.qxy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My journey from not knowing anything about React - Redux to... I don't know'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: "http://rblog.me" # the base hostname & protocol for your site
 twitter_username: KubaSanecky 
 github_username:  Dzialkowicz 
