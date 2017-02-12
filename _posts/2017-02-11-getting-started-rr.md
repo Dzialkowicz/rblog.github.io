@@ -111,7 +111,7 @@ document.addEventListener('click', () =>{
 
 ## 7
   **Store Method from Scratch**
-
+  
 ```javascript
 // createStore.js
 const createStore = (reducer) => {
