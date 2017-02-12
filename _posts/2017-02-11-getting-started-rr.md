@@ -27,10 +27,13 @@ Also in `Read Me` there was a link to **[30 videos from Redux creator](https://e
 
 I will write some most important notes from each video here:
 
-## 1 
-      Everything that changes in application (data, UI state) is contained in a single object - `State Tree`.
-    - All changes can be seen in the console.
+## 1
+   **First Rule**
+    Everything that changes in application (data, UI state) is contained in a single object `State Tree`.
+    All changes can be seen in the console.
+
 ## 2
+   **State Tree**
     State tree is redundant. Only way to change the state tree is by dispatching an `action`.
     Only most required fields are beeing used by describing an `action`.
     For example - if you have filter showing specified array of Strings. Like Strings containing type of fruit, or color.
@@ -111,7 +114,7 @@ document.addEventListener('click', () =>{
 
 ## 7
   **Store Method from Scratch**
-  
+
 ```javascript
 // createStore.js
 const createStore = (reducer) => {
