@@ -27,24 +27,27 @@ Also in `Read Me` there was a link to **[30 videos from Redux creator](https://e
 
 I will write some most important notes from each video here:
 
-1.  Everything that changes in application (data, UI state) is contained in a single object - `State Tree`.
+## 1 
+      Everything that changes in application (data, UI state) is contained in a single object - `State Tree`.
     - All changes can be seen in the console.
-
-2.  State tree is redundant. Only way to change the state tree is by dispatching an `action`.
+## 2
+    State tree is redundant. Only way to change the state tree is by dispatching an `action`.
     Only most required fields are beeing used by describing an `action`.
     For example - if you have filter showing specified array of Strings. Like Strings containing type of fruit, or color.
     The filter only shows an action what it does - `Set_Filter` and by what property it filters - `Show_Fruits`.
     An action doesn't need to know what it filters. But how should it filters.
 
-3. **Pure and Impure Functions** 
+## 3
+   **Pure and Impure Functions** 
     - `Pure functions` - are those, which return value only depend on function arguments. When You pass the same arguments, you will get the same result every time. Also it will not modify values passed to function before.
     - `Impure functions` - These are the opposites of `Pure functions` - can return different results, can change arguments passed to them.
     Important thing from this is, that some functions in Redux need to be a `Pure functions`.
 
-4. **The Reducer**
+## 4
+   **The Reducer**
     - To describe sate mutations, it is needed to write a function that takes as an argument `Previous state` of the app, an `Action beeing dispatched`, and returns `Next state`. This action needs to be pure.
-
-5. **Writing a Reducer**
+## 5
+   **Writing a Reducer**
     - Each state must be defined and function need to know where it is everytime, to know what to return.
 
 ```javascript
@@ -60,8 +63,8 @@ const counter = (state = 0, action) => {
     }
 }
 ```
-
-6. **Store**
+## 6
+   **Store**
 
 The store binds together three principles of Redux.
     - holds current app state object.
@@ -105,8 +108,8 @@ document.addEventListener('click', () =>{
 
 ```
 
-
-7. **Store Method from Scratch**
+## 7
+  **Store Method from Scratch**
 
 ```javascript
 // createStore.js
@@ -137,8 +140,8 @@ const createStore = (reducer) => {
     return { getState, dispatch, subscribe};
 };
 ```
-
-8. **Counter example**
+## 8
+   **Counter example**
 
     Writing down an transcript for that video, many new things...
 
