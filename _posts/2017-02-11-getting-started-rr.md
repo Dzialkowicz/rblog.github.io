@@ -63,6 +63,7 @@ const counter = (state = 0, action) => {
     }
 }
 ```
+
 ## 6
    **Store**
 
@@ -139,7 +140,9 @@ const createStore = (reducer) => {
 
     return { getState, dispatch, subscribe};
 };
+
 ```
+
 ## 8
    **Counter example**
 
