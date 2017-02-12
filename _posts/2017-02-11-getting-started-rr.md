@@ -45,6 +45,7 @@ I will write some most important notes from each video here.
 ## 4
    **The Reducer**
     - To describe sate mutations, it is needed to write a function that takes as an argument `Previous state` of the app, an `Action beeing dispatched`, and returns `Next state`. This action needs to be pure.
+    
 ## 5
    **Writing a Reducer**
     - Each state must be defined and function need to know where it is everytime, to know what to return.
