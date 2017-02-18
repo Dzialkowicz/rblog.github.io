@@ -146,7 +146,7 @@ const createStore = (reducer) => {
 ## 8
    **Counter example**
 
-    Writing down an transcript for that video, many new things...
+Writing down an transcript for that video, many new things...
 
 > In the simplest counter example, I update the document body manually any time this tool state changes. But, of course, this approach does not scale to complex applications. Instead of manually updating the DOM, I'm going to use React.
 I'm adding two scripts corresponding to React and react-dom packages and a root `<div/>` to render to. Now I can call the `ReactDOM.render` with my `root` component. The `render` function is called any time this store state changes, so I can safely pass the current state of this store as a `prop` to my `root` component.
