@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Begin with Redux
+title:  Begin with Reduxees
 category: redux 
 description: I've started my programming journey with Redux today, here is my notebook.
 ---
