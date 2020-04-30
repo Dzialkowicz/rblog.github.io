@@ -33,3 +33,10 @@ https://www.facebook.com/groups/3451613141521052/permalink/3531303746885324/
 ### Wpadki na scenie cz 3
 
 https://www.facebook.com/groups/3451613141521052/permalink/3531310016884697/
+
+### Rozgrzewka na spiewanie zbyt gleboko
+1. Ma me mi mo mu
+2. Łap łap łap łap łap
+3. Łaaaaaał
+4. NNN daun
+https://www.facebook.com/groups/3451613141521052/permalink/3543880102294355/
