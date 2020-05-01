@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Filmy Laboratorium
-category: redux 
+category: vocal 
 description: Zbiorcza filmow z laboratorium spiewu i mowy
 ---
 
