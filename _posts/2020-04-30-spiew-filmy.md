@@ -5,7 +5,7 @@ category: redux
 description: Zbiorcza filmow z laboratorium spiewu i mowy
 ---
 
-### Niedbalosc artykulacyjna
+### [Niedbalosc artykulacyjna](https://www.facebook.com/groups/3451613141521052/permalink/3531321003550265/)
 1. Cwiczenia z korkiem
 2. Mowic wolno
 3. Lamance jezykowe
